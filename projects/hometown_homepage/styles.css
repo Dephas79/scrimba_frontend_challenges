@@ -19,9 +19,10 @@ img {
 
 /** HERO SECTION*/
 .HERO {
-  padding-top: 17%;
-  /** background-image: url("images/torshov.jpg"); */
-  background :-moz-linear-gradient(skyblue, white);
+  padding-top: 10%;
+  padding-bottom: 10%;
+  background-image: url("images/torshov.jpg");
+  /**background :-moz-linear-gradient(skyblue, white);*/
   background-position: center;
   background-size: cover;
 
