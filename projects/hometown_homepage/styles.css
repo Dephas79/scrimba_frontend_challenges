@@ -32,26 +32,27 @@ img {
   border-radius: 10px;
   background-position: center;
   margin-top: -115px;
-  margin-left: 540px;
-  width: 215px;
-  height: 42px;
+  margin-left: 450px;
+  width: 400px;
+  height: 50px;
 }
 .hr2 {
   background-color: #457B9D;
   margin-bottom: 9%;
   margin-right: 17%;
-  width: 412px;
-  height: 52px;
+  width: 700px;
+  height: 55px;
   border-radius: 10px;
-  margin-left: 440px;
+  margin-left: 300px;
 
 }
 #Visit {
+  padding-top: 1%;
   color: white;
-  width: 201px;
-  height: 34px;
+  width: 350px;
+  height: 55px;
   margin-left: 10px;
-  font-size: 32px;
+  font-size: 35px;
   font-family: Arial;
   font-weight: 700;
   line-height: 36.8px;
