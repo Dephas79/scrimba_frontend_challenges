@@ -4,8 +4,8 @@ body {
 }
 .body {
   padding-top: 1%;
-  margin: 10px 30px;
-  border: 2px solid black;
+  /*margin: 10px 30px;
+  border: 2px solid black;*/
   width: 95%;
   height: 700px;
 }
